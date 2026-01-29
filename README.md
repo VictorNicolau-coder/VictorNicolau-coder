@@ -12,7 +12,7 @@ Hi, my name is **Victor Anderson**. I’m currently working on projects to expan
 [![My Skills](https://skillicons.dev/icons?i=nodejs,bootstrap,react)](https://skillicons.dev)
 
 ### Tools & Others
-[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,debian,windows,github,git,arduino,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,debian,windows,github,git,arduino,figma,vercel&theme=dark)](https://skillicons.dev)
 
 ## 🧠Focus
 Right now, I'm trying to focus on desktop development and embedded programming. I make games in my free time to level up my knowledge of logic and design patterns.
