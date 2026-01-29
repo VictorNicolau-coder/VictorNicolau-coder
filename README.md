@@ -5,11 +5,11 @@ Hi, my name is **Victor Anderson**. I’m currently working on projects to expan
 
 ## 💯🎓 Proeficiency
 
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+### Programming languages and web devlopment
+[![My Skills](https://skillicons.dev/icons?i=java,c,py,bash,js,html,css,cmake&theme=dark)](https://skillicons.dev)
 
-### Backend
-[![My Skills](https://skillicons.dev/icons?i=java,c,nodejs,py,bash&theme=dark)](https://skillicons.dev)
+### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=nodejs,bootstrap,react)](https://skillicons.dev)
 
 ### Tools & Others
-[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,debian,windows,github,arduino&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,debian,windows,github,arduino,figma&theme=light)](https://skillicons.dev)
