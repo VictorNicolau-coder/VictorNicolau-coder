@@ -6,7 +6,7 @@ Hi, my name is **Victor Anderson**. I’m currently working on projects to expan
 ## 💯🎓 Proeficiency
 
 ### Programming languages & Web devlopment
-[![My Skills](https://skillicons.dev/icons?i=java,c,py,bash,js,html,css,cmake&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cmake,py,bash,js,html,css&theme=dark)](https://skillicons.dev)
 
 ### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=nodejs,bootstrap,react)](https://skillicons.dev)
