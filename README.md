@@ -16,3 +16,5 @@ Hi, my name is **Victor Anderson**. I’m currently working on projects to expan
 
 ## 🧠Focus
 Right now, I'm trying to focus on desktop development and embedded programming. I make games in my free time to level up my knowledge of logic and design patterns.
+
+## 💼Main Projects
